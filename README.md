@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnau and today is Monday, 17 October, 04:47 CEST</h1>
+<h1 align="center">Hi 👋, I'm Arnau and today is Monday, 17 October, 08:58 CEST</h1>
 <h3 align="center">A passionate full-stack developer and software engineer from Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnauboy&label=Profile%20views&color=0e75b6&style=flat" alt="arnauboy" /> </p>
