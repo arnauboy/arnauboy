@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arnau and today is Tuesday, 31 January, 23:17 CET</h1>
+<h1 align="center">Hi 👋, I'm Arnau and today is Wednesday, 1 February, 02:50 CET</h1>
 <h3 align="center">A passionate full-stack developer and software engineer from Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnauboy&label=Profile%20views&color=0e75b6&style=flat" alt="arnauboy" /> </p>
 
-- 🔭 I’m currently working on **Decathlon.es** marketpace
+- 🔭 I’m currently working on **Decathlon.es** marketplace
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
